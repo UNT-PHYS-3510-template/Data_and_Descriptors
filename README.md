@@ -2,7 +2,7 @@
 This assignment, as the ones of the incoming weeks, is based on a data file that was generated in your instructor's research lab. The data file named protein_environ.csv contains more than 700 rows of data related to the atoms of a small protein (an insulin mutant, entry 1A7F in the Protein Data Bank). For each atom the file report the element label (first column), an atomic radius (R), some properties that are related to how close to the surface of the protein the atom is, as well as the cartesian coordinates (X,Y,Z, in the last three columns) of that atom, as obtained from crystallographic data.
 
 Assignment 1: In the data_analysis.ipynb file, use basic statistics to analyze some of the atomic properties provided in the data file. Consider the data in the columns labeled SUR_CONT_5.0 (3rd column) and VOL_CONT_5.0 (9th column). For these two quantities compute the following: 
-* Plot the histogram of the data
+* Characterize the frequency distribution of the data (plot the histogram)
 * Compute the mean value of these two properties for the atoms of the protein
 * Compute the standard deviation of these two properties for the atoms of the protein
 
